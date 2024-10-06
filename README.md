@@ -1,8 +1,8 @@
 ――――――――――――――――――――――――――――――――――――――――――――――――――
 
-## 🏆​ » Hello, Im @GabzDeveloper !
+## 🏆​ » Salut, je suis Gabriel !
 
-• Pseudo Minecraft: Gabriel_lrx
+• Pseudo Minecraft: **Gabriel_lrx**
 
 ## 📚​ » Langue(s) de CODAGE:
 
@@ -14,7 +14,7 @@
 
 ## ☎️​ » Contact(s):
 
-EMAIL •  `contact@gabzdev.fr `
+EMAIL •  `contact@gabzdev.fr`    
 DISCORD •  `gabriel__l `
 
 ## 📈​ » Statistiques:
