@@ -2,11 +2,9 @@
 
 ## 🏆​ » Salut, je suis Gabriel !
 
-• Pseudo Minecraft: **Gabriel_lrx**
-
-## 📚​ » Langue(s) de CODAGE:
-
-» Java: 
+• Pseudo: **Gabriel_lrx**    
+• Langue: **Java**, **JS**      
+• J'utilise: **MySQL**, **Redis**, **MongoDB**  
 
 ## 📍​ » My Projects:
 
@@ -16,7 +14,3 @@
 
 EMAIL •  `contact@gabzdev.fr`    
 DISCORD •  `gabriel__l `
-
-## 📈​ » Statistiques:
-
-――――――――――――――――――――――――――――――――――――――――――――――――――
