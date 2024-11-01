@@ -13,6 +13,6 @@
 ## ☎️​ » Contact(s):
 
 EMAIL •  `contact@gabzdev.fr`    
-DISCORD •  `gabriel__l `
+DISCORD •  `gabriel_rtt`
 
 ――――――――――――――――――――――――――――――――――――――――――――――――――
