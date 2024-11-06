@@ -6,9 +6,10 @@
 • Langue: **Java**, **JS**      
 • J'utilise: **MySQL**, **Redis**, **MongoDB**  
 
-## 📍​ » My Projects:
+## 📍​ » Mes Projets:
 
-» SatariaMC: En Développement. - *(https://www.satariamc.com)*
+» SatariaMC: En Développement. - *(https://www.satariamc.com)*      
+» ErysiaStudio: #StayTuned. - *(????)*
 
 ## ☎️​ » Contact(s):
 
