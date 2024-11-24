@@ -8,7 +8,7 @@
 
 ## 📍​ » Mes Projets:
 
-» SatariaMC: En Développement. - *(http://www.satariamc.com)*      
+» SatariaMC: En Développement. - *(http://satariamc.com)*      
 » ErysiaStudio: #StayTuned. - *(????)*
 
 ## ☎️​ » Contact(s):
