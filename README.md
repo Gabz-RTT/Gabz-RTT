@@ -9,11 +9,11 @@
 ## 📍​ » Mes Projets:
 
 » SatariaMC: En Développement. - *(http://satariamc.com)*      
-» ErysiaStudio: #StayTuned. - *(????)*
+» ErysiaStudio: #StayTuned...
 
 ## ☎️​ » Contact(s):
 
-SITE • `www.gabzdev.fr`
+SITE • `www.gabzdev.fr`   
 EMAIL •  `contact@gabzdev.fr`    
 DISCORD •  `gabriel_rtt`
 
