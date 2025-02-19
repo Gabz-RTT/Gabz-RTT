@@ -14,7 +14,7 @@
 ## 💻​​ » Informations :
 
 »» Languages : `Java`  
-»» Depuis : `2021`  
+»» Depuis : `2021-2022`  
 
 »» Type de Projets : **Serveur Minecraft** *(Mini-Jeux, SMP...)*
 
