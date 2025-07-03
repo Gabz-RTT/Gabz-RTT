@@ -4,8 +4,8 @@
 
 ## 🔎 • Projet(s) et Autre(s) :
 
-🔭 ▪︎ **Je fait parti de l'Équipe de Développement de : [@DeryCube](www.derycube.com)**    
-👨‍💻 ▪︎ **Vous pouvez en savoir plus sur : [Mon PortFolio](www.gabzdev.fr)**
+🔭 ▪︎ **Je fait parti de l'Équipe de Développement de : [@DeryCube](https://www.derycube.com)**    
+👨‍💻 ▪︎ **Vous pouvez en savoir plus sur : [Mon PortFolio](https://gabzdev.fr)**
 
 ## 📝​ • Languages :
 
