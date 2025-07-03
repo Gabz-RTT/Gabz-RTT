@@ -1,16 +1,20 @@
+<h1 align="center">💻 » Hello, C'est Gabriel - Gabz !</h1>
 
-## 🏆​ » Hello, Bienvenue sur mon GitHub
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabz-rtt&label=Profile%20views&color=0e75b6&style=flat" alt="gabz-rtt" /> </p>
 
-• **Il n'y aura pas grand chose a voir ici mise à part cela !**    
-• **Mes repos sont ouvertes sur demande.**
+## 🔎 • Projet(s) et Autre(s) :
 
-## 📞​​ » Contacts :
+🔭 ▪︎ **Je fait parti de l'Équipe de Développement de : [@DeryCube](www.derycube.com)**    
+👨‍💻 ▪︎ **Vous pouvez en savoir plus sur : [Mon PortFolio](www.gabzdev.fr)**
 
-»» Discord : `gabriel_rtt`    
-»» Mail : `hello@satariamc.com`
+## 📝​ • Languages :
 
+**▪︎ Codage : Java, JavaScript**
 
-## 💻​​ » Informations :
+## ⚙️​ • Outil(s) :
+     
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>  
 
-»» Languages : `Java`  
-»» Depuis : `2021-2022`  
+## ⌨️​ • Éditeur(s) :
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
