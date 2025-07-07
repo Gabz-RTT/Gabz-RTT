@@ -4,12 +4,12 @@
 
 ## 🔎 • Projet(s) et Autre(s) :
 
-🔭 ▪︎ **Je fait parti de l'Équipe de Développement de : [@DeryCube](https://www.derycube.fr)**    
+🔭 ▪︎ **Je fait parti de l'Equipe de développement [d'Endorah](https://endorah.net) !**    
 👨‍💻 ▪︎ **Vous pouvez en savoir plus sur : [Mon PortFolio](https://gabzdev.fr)**
 
 ## 📝​ • Languages :
 
-**▪︎ Codage : Java, JavaScript**
+**▪︎ Codage : Java**
 
 ## ⚙️​ • Outil(s) :
      
