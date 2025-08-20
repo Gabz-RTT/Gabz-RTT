@@ -4,7 +4,6 @@
 
 ## 🔎 • Projet(s) et Autre(s) :
 
-🔭 ▪︎ **Je fait parti de l'Equipe de développement [d'Endorah](https://endorah.net) !**    
 👨‍💻 ▪︎ **Vous pouvez en savoir plus sur : [Mon PortFolio](https://gabzdev.fr)**
 
 ## 📝​ • Languages :
