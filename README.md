@@ -4,6 +4,8 @@
 
 ## 🔎 • Projet(s) et Autre(s) :
 
+▪︎ J'ai fait parti de l'équipe de Développement d'[@Endorah](https://www.endorah.net), ainsi que de [@DeryCube](https://www.derycube.fr)**
+
 👨‍💻 ▪︎ **Vous pouvez en savoir plus sur : [Mon PortFolio](https://gabzdev.fr)**
 
 ## 📝​ • Languages :
