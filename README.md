@@ -50,7 +50,7 @@ En parallèle, je développe en **Java depuis 2022**, principalement autour de l
 
 | Projet | Description |
 |--------|-------------|
-| [**DeryCube**](https://www.derycube.com) | Minecraft — Serveur Mini-Jeux & FFA |
+| [**????**] | Minecraft — Serveur Mini-Jeux & FFA |
 
 ---
 
