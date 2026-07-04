@@ -21,7 +21,6 @@ Java Developer since 2022
 
 Je suis étudiant en **Service à la personne et Animation Territoriale**, avec pour objectif d'intégrer par la suite un **BTS en Communication**.
 En parallèle, je développe en **Java depuis 2022**, principalement autour de la création de **plugins sur Minecraft**.
-Je suis actuellement développeur sur le projet **[DeryCube](https://www.derycube.com)**.
 
 ## Languages
 
