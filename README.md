@@ -17,10 +17,13 @@ Java Developer since 2022
 
 ---
 
-## À propos de moi :)
+## <img width="164" height="39" alt="PORTFOLIO - QUISUISJE" src="https://github.com/user-attachments/assets/2acce2d4-ab18-4fea-99c0-589bfe9d756f" />
 
-Je suis étudiant en **Service à la personne et Animation Territoriale**, avec pour objectif d'intégrer par la suite un **BTS en Communication**.
-En parallèle, je développe en **Java depuis 2022**, principalement autour de la création de **plugins sur Minecraft**.
+Je m'appelle Gabriel, je suis actuellement lycéen en Bac Professionnel **Service à la personne et Animation Territoriale**, avec pour objectif d'intégrer par la suite un **BTS en Communication**.      
+
+En parallèle, je développe en **Java depuis 2022**, principalement autour de la création de **plugins** sur le jeu vidéo **Minecraft**.    
+Il m'arrive de faire des montages vidéos mais aussi audios pour certains projets comme la conception d'un spectacle en entier.  
+
 
 ## Languages
 
@@ -41,7 +44,7 @@ En parallèle, je développe en **Java depuis 2022**, principalement autour de l
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fe315d?style=for-the-badge&logo=intellijidea&logoColor=white" />  
-  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" />  
 </p>
 
 ---
@@ -54,7 +57,7 @@ En parallèle, je développe en **Java depuis 2022**, principalement autour de l
 
 ---
 
-## Liens & Contact
+## <img width="192" height="39" alt="PORTFOLIO - CONTACTEZ" src="https://github.com/user-attachments/assets/a6749890-e430-4811-932a-22c638827694" />
 
 <div align="center">
 <p>
