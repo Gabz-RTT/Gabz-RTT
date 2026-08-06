@@ -24,15 +24,16 @@ Je m'appelle Gabriel, je suis actuellement lycéen en Bac Professionnel **Servic
 En parallèle, je développe en **Java depuis 2022**, principalement autour de la création de **plugins** sur le jeu vidéo **Minecraft**.    
 Il m'arrive de faire des montages vidéos mais aussi audios pour certains projets comme la conception d'un spectacle en entier.  
 
+---
 
-## Languages
+## Languages :
 
 <p>
   <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=0d1117" />  
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />  
 </p>
 
-## Databases
+## Databases :
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />  
@@ -40,20 +41,13 @@ Il m'arrive de faire des montages vidéos mais aussi audios pour certains projet
   <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />  
 </p>
 
-## IDEs
-
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-fe315d?style=for-the-badge&logo=intellijidea&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white" />  
-</p>
-
 ---
 
-## Projet(s)
+## Mes Projet(s) :
 
 | Projet | Description |
 |--------|-------------|
-| [**????**] | Minecraft — Serveur Mini-Jeux & FFA |
+| **BlockPvP** | Serveur Minecraft Mini-Jeux 1.8 à 26.2+ (En Développement) |
 
 ---
 
