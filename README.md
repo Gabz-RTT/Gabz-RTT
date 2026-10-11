@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="gear.svg" alt="Engrenage qui tourne" width="120" height="120" />
+  <img src="banner.svg" alt="Revenez plus tard..." width="420" height="100" />
 </div>
